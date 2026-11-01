@@ -12,7 +12,7 @@
       "iconUri": "https://raw.githubusercontent.com/gamerbody8-design/tv-apps/main/icons/nova.png",
       "manifest": {
         "id": "app.sadeem.tv",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "type": "web",
         "title": "NOVA TV",
         "appDescription": "NOVA — Arabic streaming interface for LG webOS (web build).",
@@ -21,7 +21,7 @@
         "rootRequired": false,
         "ipkUrl": "https://github.com/gamerbody8-design/tv-apps/releases/download/webos/NOVA-webOS.ipk",
         "ipkHash": {
-          "sha256": "a02784c8772e6b2ae6de1ec229aa7295505f06bcc57503aaac9529a48e47b3d1"
+          "sha256": "1362ebc5a8ce3bc3525bb8bae99101e66e8e66f5901113d964d003712cdf8e87"
         },
         "ipkSize": 24968
       },
@@ -34,7 +34,7 @@
       "iconUri": "https://raw.githubusercontent.com/gamerbody8-design/tv-apps/main/icons/orion.png",
       "manifest": {
         "id": "com.madar.tv",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "type": "web",
         "title": "ORION TV",
         "appDescription": "ORION — IPTV player for LG webOS (web build).",
@@ -43,7 +43,7 @@
         "rootRequired": false,
         "ipkUrl": "https://github.com/gamerbody8-design/tv-apps/releases/download/webos/ORION-webOS.ipk",
         "ipkHash": {
-          "sha256": "2744dc81b412802b9562ad66bf5d6aa4e35d2e03a0c111b1e8e000e605b37357"
+          "sha256": "4eb9cdc3953389d9ae07dc0db30ac3a09f062d074990151d65659785f369cc6e"
         },
         "ipkSize": 29650
       },

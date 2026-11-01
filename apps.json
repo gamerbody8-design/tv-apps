@@ -1,0 +1,54 @@
+{
+  "paging": {
+    "page": 1,
+    "count": 2,
+    "maxPage": 1,
+    "itemsTotal": 2
+  },
+  "packages": [
+    {
+      "id": "app.sadeem.tv",
+      "title": "NOVA TV",
+      "iconUri": "https://raw.githubusercontent.com/gamerbody8-design/tv-apps/main/icons/nova.png",
+      "manifest": {
+        "id": "app.sadeem.tv",
+        "version": "1.0.0",
+        "type": "web",
+        "title": "NOVA TV",
+        "appDescription": "NOVA — Arabic streaming interface for LG webOS (web build).",
+        "iconUri": "https://raw.githubusercontent.com/gamerbody8-design/tv-apps/main/icons/nova.png",
+        "sourceUrl": "https://github.com/gamerbody8-design/sadeem",
+        "rootRequired": false,
+        "ipkUrl": "https://github.com/gamerbody8-design/tv-apps/releases/download/webos/NOVA-webOS.ipk",
+        "ipkHash": {
+          "sha256": "84a822c6dfd50eb61409d4ca3e62dbc13d450e11f253041d83276a3b10c055e5"
+        },
+        "ipkSize": 24856
+      },
+      "pool": "main",
+      "shortDescription": "NOVA — Arabic streaming interface for LG webOS (web build)."
+    },
+    {
+      "id": "com.madar.tv",
+      "title": "ORION TV",
+      "iconUri": "https://raw.githubusercontent.com/gamerbody8-design/tv-apps/main/icons/orion.png",
+      "manifest": {
+        "id": "com.madar.tv",
+        "version": "1.0.0",
+        "type": "web",
+        "title": "ORION TV",
+        "appDescription": "ORION — IPTV player for LG webOS (web build).",
+        "iconUri": "https://raw.githubusercontent.com/gamerbody8-design/tv-apps/main/icons/orion.png",
+        "sourceUrl": "https://github.com/gamerbody8-design/madar",
+        "rootRequired": false,
+        "ipkUrl": "https://github.com/gamerbody8-design/tv-apps/releases/download/webos/ORION-webOS.ipk",
+        "ipkHash": {
+          "sha256": "4fedb5969b0802c8eb096cb0eb038b528ed534bd0ea3fe28a2e21f09c9752f3e"
+        },
+        "ipkSize": 29562
+      },
+      "pool": "main",
+      "shortDescription": "ORION — IPTV player for LG webOS (web build)."
+    }
+  ]
+}

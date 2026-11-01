@@ -3,7 +3,9 @@
     "page": 1,
     "count": 2,
     "maxPage": 1,
-    "itemsTotal": 2
+    "itemsTotal": 2,
+    "prevUrl": null,
+    "nextUrl": null
   },
   "packages": [
     {
@@ -26,7 +28,12 @@
         "ipkSize": 24968
       },
       "pool": "main",
-      "shortDescription": "NOVA — Arabic streaming interface for LG webOS (web build)."
+      "shortDescription": "NOVA — Arabic streaming interface for LG webOS (web build).",
+      "manifestUrl": "https://github.com/gamerbody8-design/tv-apps/releases/download/webos/NOVA-manifest.json",
+      "requirements": {
+        "webosRelease": ">=4.0"
+      },
+      "fullDescriptionUrl": "https://raw.githubusercontent.com/gamerbody8-design/tv-apps/main/descriptions/nova.html"
     },
     {
       "id": "com.madar.tv",
@@ -48,7 +55,12 @@
         "ipkSize": 29650
       },
       "pool": "main",
-      "shortDescription": "ORION — IPTV player for LG webOS (web build)."
+      "shortDescription": "ORION — IPTV player for LG webOS (web build).",
+      "manifestUrl": "https://github.com/gamerbody8-design/tv-apps/releases/download/webos/ORION-manifest.json",
+      "requirements": {
+        "webosRelease": ">=4.0"
+      },
+      "fullDescriptionUrl": "https://raw.githubusercontent.com/gamerbody8-design/tv-apps/main/descriptions/orion.html"
     }
   ]
 }
